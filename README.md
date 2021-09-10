@@ -72,6 +72,7 @@
 
 ## Branch V3
 * coming soon
+* * documentation with swagger
 
 
 ## ✨ Installation
