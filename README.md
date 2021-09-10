@@ -41,7 +41,7 @@
 * How to use Redis on Node to create a blacklist;
 * How to use Redis methods on Node;
 * Implement a token logout system.
-* 
+
 ## Branch V2
 * typescript inheritance
 * generic type classes
