@@ -22,18 +22,26 @@
 
 ## This is a Javascript project created in order to learn about security methods using node.js. Creating this application i could learn about:
 ## Branch V1
-* Modeling holes due to limitations of the Javascript language
-* Initial Benefits of the TypeScript Language
-* Compiler configuration and tsconfig.json role
-* tsc compiler settings
-* Integration with Node.js scripts
-* Private and public access modifiers
-* Implicit type any
-* Benefits of static typing
-* Explicit method return
-* Conversion of interface values
-* defensive programming
-
+* identify vulnerabilities
+* What is a Hashing Function
+* The differences between hashing functions
+* How the bcrypt hashing function works
+* Implement password protection in the database using bcrypt
+* Different types of login systems;
+* The advantages of a token login system;
+* How JSON Web Token Works;
+* How to implement sessionless local authentication.
+* How to generate JSON Web Tokens;
+* How to configure an authentication strategy for tokens;
+* How to generate random passwords;
+* How to store values in an environment variable;
+* How to handle authentication errors.
+* How to create tokens with expiration time;
+* How to invalidate JSON Web Tokens with a blacklist;
+* How to use Redis on Node to create a blacklist;
+* How to use Redis methods on Node;
+* Implement a token logout system.
+* 
 ## Branch V2
 * typescript inheritance
 * generic type classes
