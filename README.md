@@ -20,7 +20,7 @@
   
 ## 📑 About
 
-## This is a Typescript project created in order to learn the main features and advantages of typescript. Creating this application i could learn about:
+## This is a Javascript project created in order to learn about security methods using node.js. Creating this application i could learn about:
 ## Branch V1
 * Modeling holes due to limitations of the Javascript language
 * Initial Benefits of the TypeScript Language
@@ -62,19 +62,10 @@ Open a terminal and run the following commands:
 
 ```PowerShell
 # To copy this repository
-git clone https://github.com/CarlosDanielS3/TypeScript.git
+git clone https://github.com/CarlosDanielS3/nodeSecurity.git
 
 # To move to project directory
-cd TypeScript
-
-# To install the dependencies
-yarn
-```
-and 
-
-```PowerShell
-# To move to project directory
-cd servidor-api
+cd nodeSecurity
 
 # To install the dependencies
 yarn
@@ -86,14 +77,6 @@ You can run the application in development mode with the command:
 
 ```Powershell
 #Run the Server
-yarn start
-```
-
-and 
-
-```Powershell
-# To run Aplication the consumed API
-cd servidor-api
 yarn start
 ```
 
