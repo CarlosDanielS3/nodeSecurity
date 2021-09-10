@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src=".github/nodeSecurity.png" width="200" alt="nodeSecurity" />
+  <img src=".github/nodeSecurity.png" width="220" alt="nodeSecurity" />
   <br />
 <p>
     <img src="https://img.shields.io/badge/made%20by-Carlos%20DanielS3-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=visual-studio-code&logoColor=2D325E" alt="Made by Carlos Daniel">
