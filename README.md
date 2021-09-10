@@ -43,26 +43,34 @@
 * Implement a token logout system.
 
 ## Branch V2
-* typescript inheritance
-* generic type classes
-* abstractic classes
-* protected private and public modificators
-* advantages and care of using enums
-* static methods
-* Optional parameters
-* Removing comments from compiled code
-* Activating strictNullChecks
-* Benefits of strictNullChecks in controlling your application's flow
+* Limitations of using a single JWT token for sessions
+* How to use refresh tokens for authentication
+* How to implement a refresh token
+* What are opaque tokens
+* How to use moment.js to set the token expiration time
+* How to perform search and delete operations in Redis
+* How to create an interface for manipulating a generic list
+* How to create an allowlist for refresh tokens
+* How to manually interact with redis from the command line
+* How to refactor the blocklist
+* How to check refresh tokens
+* How to Implement the Token Update Route
+* How to Implement the Refresh Tokens Logout Route
+* How to modularize token creation
+* How to modularize token verification
+* How to modularize token invalidation
+* How email verification is important
+* How the email verification process works
+* How to send emails on Node.js
+* How to Create Email Verification Emails
+* How to store information that a user's email is verified
+* How to Modify a User's Email Verification State
+* How to implement the email verification route
+* How to generate dynamic addresses using tokens
+* How to send emails in a production environment
 
 ## Branch V3
-* Method Decorator
-* Log runtime with decorator
-* Creating an Inspection Decorator
-* Portability of old functionality for decorators
-* Using Object.defineProperty
-* Dynamic getter creation
-* Practical application of polymorphism
-* Generation of sourmaps and application debugging in the browser
+* coming soon
 
 
 ## ✨ Installation
