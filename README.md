@@ -1,3 +1,4 @@
+
 <div align="center">
   <br />
   <img src=".github/nodeSecurity.png" width="220" alt="nodeSecurity" />
@@ -95,4 +96,3 @@ You can run the application in development mode with the command:
 #Run the Server
 yarn start
 ```
-
